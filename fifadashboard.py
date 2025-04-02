@@ -4,7 +4,6 @@
 # In[2]:
 
 
-get_ipython().system('pip install pandas plotly dash')
 
 
 # In[8]:
