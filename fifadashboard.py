@@ -1,12 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
 
-
-
-
-# In[8]:
 
 
 import pandas as pd
@@ -112,14 +107,11 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-# In[9]:
 
 
-with open("requirements.txt", "w") as f:
-    f.write("dash\nplotly\npandas\n")
 
 
-# In[ ]:
+
 
 
 
